@@ -1,11 +1,23 @@
-- name: ETL Process
-  image: https://images.pexels.com/photos/171198/pexels-photo-171198.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260
-  link: https://viniciusgribas.github.io/blog/ANP-Project
-  description: EXCEL AUTOMATION AND ELT PROCESS │ [PYTHON][EXCEL-VBA]
-  
-- name:  Exploratory Analysis
-  image: https://images.pexels.com/photos/5561920/pexels-photo-5561920.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260
-  link: https://viniciusgribas.github.io/blog/Analysis-of-the-Brazilian-power-generation-system
-  
-  description: PYTHON GRAPHICAL AND SPATIAL EXPLORATORY DATA ANALYSIS │ [PYTHON][HTML-DASHBOARDS]
+- name: MEDIUM - @viniciusgribas
+  image: https://miro.medium.com/max/1200/1*jfdwtvU6V6g99q3G7gq7dQ.png
+  link: https://medium.com/@viniciusgribas
+  description: A living network of curious minds. Anyone can write on Medium. Thought-leaders, journalists, experts, and individuals with unique perspectives share their thinking here. You’ll find pieces by independent writers from around the globe, stories we feature and leading authors, and smart takes on our own suite of blogs and publications.
+
+
+- name:  KAGGLE - @viniciusguerraeribas
+  image: https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRv8_oGBUEpD0qDmznzo0p_qn_W75t_6eLsAoPokk5TmfKsyQ_7THiGx2pnMFbyrinDCM0&usqp=CAU
+  link: https://www.kaggle.com/viniciusguerraeribas
+  description: Kaggle, a subsidiary of Google LLC, is an online community of data scientists and machine learning practitioners. Kaggle allows users to find and publish data sets, explore and build models in a web-based data-science environment, work with other data scientists and machine learning engineers, and enter competitions to solve data science challenges. 
+
+- name:  DATA CAMP - @viniciusguerra
+  image: https://dataresident.com/wp-content/uploads/2021/12/is-datacamp-worth-it.png
+  link: https://www.datacamp.com/profile/viniciusguerra-7c6c7d5f-62c0-4a2e-aae7-690a2595752d
+  description: Keep up with the Future with in-demand Data Science knowledge. Free intros to all Courses. Don't get Left behind. Top Companies need Data science skills. Try 350 Free Chapters
+
+- name:  Stackoverflow - @viniciusgr
+  image: https://mundohacker.net.br/wp-content/uploads/2019/05/stackoverflow-1.png
+  link: https://stackoverflow.com/users/17576222/viniciusgr
+  description: Stack Overflow is a question and answer website for professional and enthusiast programmers. It is the flagship site of the Stack Exchange Network, created in 2008 by Jeff Atwood and Joel Spolsky. It features questions and answers on a wide range of topics in computer programming.
+
+
 
