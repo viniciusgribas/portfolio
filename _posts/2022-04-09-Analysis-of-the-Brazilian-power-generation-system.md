@@ -14,7 +14,7 @@ tags:
 - Geopandas 
 - Plotfy
 ---
-
+# Graphical and Spatial Exploratory Analysis - Brazil Electricity Generation Data from ANEEL [EN] 
 
 ---
 
@@ -28,10 +28,6 @@ tags:
 
 # [💻Project Notebook](https://github.com/viniciusgribas/Analise_dados_geracao_BR/blob/main/Analise_Geracao_I/Master_Code.ipynb) [BR] 
 
----
-># Graphical and Spatial Exploratory Analysis - Brazil Electricity Generation Data from ANEEL [EN] 
-
----
 
 ## Introduction
 
