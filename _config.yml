@@ -2,12 +2,12 @@
 markdown: kramdown
 
 # URL of the Site
-url: ''
+url: 'https://viniciusgribas.github.io/portfolio/'
 # Base URL of the Site (i.e., Name of the Repository in which the Site is hosted)
-baseurl: 
+baseurl: portfolio 
 
 # Title of the Site
-title: What A Theme
+title: Vinicius Guerra e Ribas
 # Description of the Site
 description: A customizable Jekyll portfolio theme
 # URL of Image of the Site
