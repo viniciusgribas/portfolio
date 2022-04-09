@@ -1,10 +1,9 @@
-- name: ANP PROJECT [EXCEL AUTOMATION AND ELT PROCESS]
+- name: ANP PROJECT
   image: https://images.pexels.com/photos/162568/oil-pump-jack-sunset-clouds-silhouette-162568.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260
   link: https://viniciusgribas.github.io/blog/ANP-Project
-  description: This project is a simple ETL where there is an Excel automation via VBA and then a data extraction via Python. The programming languages used were PYTHON and VBA EXCEL.
+  description:  [EXCEL AUTOMATION AND ELT PROCESS]
   
-- name: Graphical and Spatial Exploratory Analysis [ PYTHON DATA EXPLORATORY DATA ANALYSIS]
+- name: Graphical and Spatial Exploratory Analysis 
   image: https://miro.medium.com/max/875/1*nRmKEw04BUz2dPn8wT70JA.jpeg
   link: https://viniciusgribas.github.io/blog/Analysis-of-the-Brazilian-power-generation-system
-  description: The project consists of an exploratory data analysis. The objective of this analysis is to visualize the Brazilian electric generation system in a diagrammatic and spatial way, extracting insights. For this, a dataframe of the GeoDataFrame type was used and, mainly, the power of the Plotly Express library optimized for the Python language. 
-  
+  description: [PYTHON DATA EXPLORATORY DATA ANALYSIS]
