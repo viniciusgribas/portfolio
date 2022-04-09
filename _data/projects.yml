@@ -1,9 +1,11 @@
-- name: ANP PROJECT
-  image: https://images.pexels.com/photos/162568/oil-pump-jack-sunset-clouds-silhouette-162568.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260
+- name: ETL Process
+  image: https://images.pexels.com/photos/171198/pexels-photo-171198.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260
   link: https://viniciusgribas.github.io/blog/ANP-Project
-  description:  [EXCEL AUTOMATION AND ELT PROCESS]
+  description: EXCEL AUTOMATION AND ELT PROCESS │ [PYTHON][EXCEL-VBA]
   
-- name: Graphical and Spatial Exploratory Analysis 
-  image: https://miro.medium.com/max/875/1*nRmKEw04BUz2dPn8wT70JA.jpeg
+- name:  Exploratory Analysis
+  image: https://images.pexels.com/photos/5561920/pexels-photo-5561920.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260
   link: https://viniciusgribas.github.io/blog/Analysis-of-the-Brazilian-power-generation-system
-  description: [PYTHON DATA EXPLORATORY DATA ANALYSIS]
+  
+  description: PYTHON GRAPHICAL AND SPATIAL EXPLORATORY DATA ANALYSIS │ [PYTHON][HTML-DASHBOARDS]
+

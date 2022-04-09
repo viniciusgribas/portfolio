@@ -1,8 +1,8 @@
 ---
-title: ANP - PROJECT
+title: ETL Process - Brazilian National Oil and Gas Agency (ANP) data.
 layout: post
 post-image: https://images.pexels.com/photos/162568/oil-pump-jack-sunset-clouds-silhouette-162568.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260
-description: This project is a simple ETL where there is an Excel automation via VBA and then a data extraction via Python. The programming languages used were PYTHON and VBA EXCEL.
+description: This project is a simple ETL where there is an Excel automation via VBA and then a data extraction via Python. The programming languages used were PYTHON and VBA EXCEL. The automation extracts data from a pivot table in excel, converts it to spreadsheets and joins them in python. Preserving all the original files, without modifying them permanently.
 tags:
 - EXCEL
 - VBA EXCEL
@@ -11,8 +11,11 @@ tags:
 - Xlwgins
 - Openpyxl 
 ---
-# ANP-PROJECT - [EN]
+# GITHUB: [ANP-PROJECT - [EN]](https://github.com/viniciusgribas/ANP-PROJECT)
 [Excel VBA Automation and python ETL]
+
+This project is a simple ETL where there is an Excel automation via VBA and then a data extraction via Python. The programming languages used were PYTHON and VBA EXCEL.
+
 ---
 
 # Vinicius Guerra e Ribas -  Energy Sector Analyst

@@ -1,5 +1,5 @@
 ---
-title: Graphical and Spatial Exploratory Analysis - Brazil Electricity Generation Data from ANEEL
+title: Exploratory Analysis - Brazil Electricity Generation Data from Brazilian National Electric Energy Agency (ANEEL).
 layout: post
 post-image: https://miro.medium.com/max/875/1*nRmKEw04BUz2dPn8wT70JA.jpeg
 description: The project consists of an exploratory data analysis. The objective of this analysis is to visualize the Brazilian electric generation system in a diagrammatic and spatial way, extracting insights. For this, a dataframe of the GeoDataFrame type was used and, mainly, the power of the Plotly Express library optimized for the Python language. 
@@ -14,7 +14,7 @@ tags:
 - Geopandas 
 - Plotfy
 ---
-# Graphical and Spatial Exploratory Analysis - Brazil Electricity Generation Data from ANEEL [EN] 
+# GITHUB: [Graphical and Spatial Exploratory Analysis - Brazil Electricity Generation Data from ANEEL [EN]](https://github.com/viniciusgribas/Analise_dados_geracao_BR)
 
 ---
 
@@ -26,12 +26,15 @@ tags:
 
 ---
 
-# [💻Project Notebook](https://github.com/viniciusgribas/Analise_dados_geracao_BR/blob/main/Analise_Geracao_I/Master_Code.ipynb) [BR] 
+# [💻Project Notebook](https://github.com/viniciusgribas/Analise_dados_geracao_BR/blob/main/Analise_Geracao_I/Master_Code.ipynb) 
 
+---
 
 ## Introduction
 
->### AUXILIARY BIBLIOGRAPHY
+
+### AUXILIARY BIBLIOGRAPHY
+
 - Files
 
     - [Electricity Generation Information System (ANEEL SIGA)](https://app.powerbi.com/view?r=eyJrIjoiNjc4OGYyYjQtYWM2ZC00YjllLWJlYmEtYzdkNTQ1MTc1NjM2IiwidCI6IjQwZDZmOWI4LWVjYTctNDZhMi05MmQ0LWVhNGU5YzAxNzBlMSIsImMiOjR9)
@@ -60,7 +63,7 @@ tags:
     - [A Workflow for Data Visualization](https://towardsdatascience.com/a-workflow-for-data-visualization-c887d57d7ef1)
 
 
->### Introductory Remarks
+### Introductory Remarks
 
  - The project consists of an exploratory data analysis. The objective of this analysis is to visualize the Brazilian electric generation system in a diagrammatic and spatial way, extracting insights. For this, a dataframe of the GeoDataFrame type was used and, mainly, the power of the Plotly Express library optimized for the Python language. 
  
@@ -71,7 +74,7 @@ tags:
 
  - Finally the iterative data visualizations were exported in "HTML" files. Available at [`viniciusgribas.github.io`](https://github.com/viniciusgribas/Analise_dados_geracao_BR/tree/main/Analise_Geracao_I)
 
->[PART I PRODUCTS](https://github.com/viniciusgribas/Analise_dados_geracao_BR/tree/main/Analise_Geracao_I):
+### [PART I PRODUCTS](https://github.com/viniciusgribas/Analise_dados_geracao_BR/tree/main/Analise_Geracao_I):
 
 - [BarChart I](https://viniciusgribas.github.io/GeracaoANEEL_ParteI/Bar_GitHub_@viniciusgribas.html)
      
@@ -89,7 +92,7 @@ tags:
 
 - [CartesianMap I](https://viniciusgribas.github.io/GeracaoANEEL_ParteI/Points_GitHub_@viniciusgribas.html)
 
->[PART I - MEDIUM POST](https://viniciusgribas.medium.com/extraindo-insights-do-sistema-de-gera%C3%A7%C3%A3o-de-energia-el%C3%A9trica-brasileiro-utilizando-python-parte-i-70e3eb58c156) [BR 🇧🇷] 
+# [PART I - MEDIUM POST](https://viniciusgribas.medium.com/extraindo-insights-do-sistema-de-gera%C3%A7%C3%A3o-de-energia-el%C3%A9trica-brasileiro-utilizando-python-parte-i-70e3eb58c156) [BR 🇧🇷] 
 
 
 ---
