@@ -32,19 +32,19 @@ The programming languages used were PYTHON and VBA EXCEL.
 
 Seeking to simplify and make clear the flow of activities to obtain the final product, this notebook has been divided into 4 parts.
 
-> PART 1 - INTRODUCTION
+#### PART 1 - INTRODUCTION
  -  Containing a short summary of how the project was developed, the basics and bibliography.
 ---
 
-> PART 2 - EXCEL VBA
+#### PART 2 - EXCEL VBA
  - Introducing the `VBA` formulas developed in excel to be called in `python`.
 
 ---
-> PART 3 - PYTHON
+#### PART 3 - PYTHON
  - Presenting the `python` code used for this project.
 
 ---
-> PART 4 - CONCLUSION
+#### PART 4 - CONCLUSION
  - Final considerations of the project.
 ---
 ### 1.1 AUXILIARY BIBLIOGRAPHY
