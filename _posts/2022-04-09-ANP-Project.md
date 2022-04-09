@@ -1,7 +1,7 @@
 ---
 title: ANP - PROJECT
 layout: post
-post-image: https://repository-images.githubusercontent.com/470692473/e7682a35-2a0f-4508-89d9-bf4ecb30b5cc
+post-image: https://images.pexels.com/photos/162568/oil-pump-jack-sunset-clouds-silhouette-162568.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260
 description: This project is a simple ETL where there is an Excel automation via VBA and then a data extraction via Python. The programming languages used were PYTHON and VBA EXCEL.
 tags:
 - EXCEL

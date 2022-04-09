@@ -1,7 +1,7 @@
 ---
 title: Graphical and Spatial Exploratory Analysis - Brazil Electricity Generation Data from ANEEL
 layout: post
-post-image: https://repository-images.githubusercontent.com/474626185/54e01fbf-caf6-42c0-b392-d27d05303655
+post-image: https://miro.medium.com/max/875/1*nRmKEw04BUz2dPn8wT70JA.jpeg
 description: The project consists of an exploratory data analysis. The objective of this analysis is to visualize the Brazilian electric generation system in a diagrammatic and spatial way, extracting insights. For this, a dataframe of the GeoDataFrame type was used and, mainly, the power of the Plotly Express library optimized for the Python language. 
 tags:
 - CSV UTF 16
