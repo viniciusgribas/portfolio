@@ -12,18 +12,19 @@ tags:
 - Openpyxl 
 ---
 # ANP-PROJECT - [EN]
-
+[Excel VBA Automation and python ETL]
 ---
 
 # Vinicius Guerra e Ribas -  Energy Sector Analyst
 [Energy Engineer (UnB)](https://www.unb.br/) │ [Data Scientist and Analytics (USP)](https://www5.usp.br/)
 
+---
 
-## [ E-mail](mailto:viniciusgribas@gmail.com?Subject=%5BANP-PROJECT%5D%20-%20Contact)│ [ Linkedin](https://www.linkedin.com/in/vinicius-guerra-e-ribas/) │[ GitHub](https://github.com/viniciusgribas) 
+## [📧 E-mail](mailto:viniciusgribas@gmail.com?Subject=%5BANALISE-ESPACIAL-ANEEL%5D%20-%20Contact) │ [🎯 Linkedin](https://www.linkedin.com/in/vinicius-guerra-e-ribas/) │ [😸 GitHub](https://github.com/viniciusgribas) 
 
 ---
 
-# [Project Notebook](https://github.com/viniciusgribas/ANP-PROJECT/blob/main/Codigos_Python/Notebook_Master.ipynb)
+# [💻Project Notebook](https://github.com/viniciusgribas/ANP-PROJECT/blob/main/Codigos_Python/Notebook_Master.ipynb)
 
 ---
 
