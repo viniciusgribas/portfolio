@@ -11,56 +11,11 @@ tags:
 - Xlwgins
 - Openpyxl 
 ---
-# GITHUB: [ANP-PROJECT - [EN]](https://github.com/viniciusgribas/ANP-PROJECT)
-[Excel VBA Automation and python ETL]
+# [Excel VBA Automation and python ETL]
 
-This project is a simple ETL where there is an Excel automation via VBA and then a data extraction via Python. The programming languages used were PYTHON and VBA EXCEL.
+This project is a simple ETL where there is an Excel automation via VBA and then a data extraction via Python. The programming languages used were PYTHON and VBA EXCEL. The automation extracts data from a pivot table in excel, converts it to spreadsheets and joins them in python. Preserving all the original files, without modifying them permanently.
 
----
-
-# Vinicius Guerra e Ribas -  Energy Sector Analyst
-[Energy Engineer (UnB)](https://www.unb.br/) │ [Data Scientist and Analytics (USP)](https://www5.usp.br/)
-
----
-
-## [📧 E-mail](mailto:viniciusgribas@gmail.com?Subject=%5BANALISE-ESPACIAL-ANEEL%5D%20-%20Contact) │ [🎯 Linkedin](https://www.linkedin.com/in/vinicius-guerra-e-ribas/) │ [😸 GitHub](https://github.com/viniciusgribas) 
-
----
-
-# [💻Project Notebook](https://github.com/viniciusgribas/ANP-PROJECT/blob/main/Codigos_Python/Notebook_Master.ipynb)
-
----
-
-## PART 1 - INTRODUCTION
-The programming languages used were PYTHON and VBA EXCEL.
-
-Seeking to simplify and make clear the flow of activities to obtain the final product, this notebook has been divided into 4 parts.
-
-#### PART 1 - INTRODUCTION
- -  Containing a short summary of how the project was developed, the basics and bibliography.
----
-
-#### PART 2 - EXCEL VBA
- - Introducing the `VBA` formulas developed in excel to be called in `python`.
-
----
-#### PART 3 - PYTHON
- - Presenting the `python` code used for this project.
-
----
-#### PART 4 - CONCLUSION
- - Final considerations of the project.
----
-### 1.1 AUXILIARY BIBLIOGRAPHY
- - https://www.automateexcel.com/vba-code-examples/
- - https://www.rondebruin.nl/index.htm
- - https://www.xlwings.org/
- - https://pandas.pydata.org/docs/
- - http://timgolden.me.uk/pywin32-docs/contents.html
- - https://github.com/wesm/pydata-book
- - https://github.com/fzumstein/python-for-excel
-
-### 1.2 PROJECT FLOW
+## Description
 
 1) At first, the files are only available in excel `".XLS"` format, under the name [`"vendas-combustíveis-m3.xls"`](https://github.com/viniciusgribas/ANP-PROJECT/tree/main/assets).
 
@@ -102,5 +57,7 @@ Seeking to simplify and make clear the flow of activities to obtain the final pr
 
    - [`Sales_Of_Oil_Derivative_Fuels_By_UF_And_Product.CSV`](https://github.com/viniciusgribas/ANP-PROJECT/tree/main/Planilhas%20Finais)
 
+
 ---
-![image](https://user-images.githubusercontent.com/63691577/161165472-a0c20a8b-d68e-4d6b-a11c-c717bfbb0aa7.png)
+# GITHUB: [ANP-PROJECT - [EN]](https://github.com/viniciusgribas/ANP-PROJECT)
+---
