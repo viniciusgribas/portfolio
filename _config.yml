@@ -46,18 +46,16 @@ disqus-shortname: viniciusgribas
 author-name: Vinicius Guerra e Ribas
 # URL for the Image of the Author
 author-image: https://raw.githubusercontent.com/viniciusgribas/portfolio/master/perfil1mini.JPG
-author-about: >
-               │⚡ Eɴᴇʀɢʏ Eɴɢɪɴᴇᴇʀ │ Dᴀᴛᴀ Sᴄɪᴇɴᴄᴇ & Aɴᴀʟɪᴛʏᴄs 💡│                                                                                   
-               ⠀⠀                                                               
-              
-
+author-about: >                                                                                                                                                             
                 ❝'I'm an Energy Engineer and I'm doing a post-graduation in Data Science & Analytics. 
                 Currently, I work as an Energy Sector Analyst at Energisa.S.A. 
                 I am passionate about Data Science and enjoy studying the areas of technology, engineering and statistics. 
                 Using Python and Excel tools, I conduct exploratory analysis and automate processes 
                 with a focus on extracting meaningful insights and reducing operational time. 
                 Check out some of what I have published on my GitHub repository. 
-                Hope you like it! Feel free to contact me.❞
+                Hope you like it! Feel free to contact me. 💡 ❞
+
+author-title: Eɴᴇʀɢʏ Eɴɢɪɴᴇᴇʀ │ Dᴀᴛᴀ Sᴄɪᴇɴᴄᴇ & Aɴᴀʟɪᴛʏᴄs  
 
 # URL to the Author's Profile (i.e., Github, Twitter, Stackoverflow, etc)
 author-url: https://github.com/viniciusgribas
